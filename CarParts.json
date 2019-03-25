@@ -1,0 +1,39 @@
+{
+    "carparts": {
+        "carpart": [
+            {
+                "Kód": "21",
+                "Megnevezés": "Motorháztető",
+                "Színkód": "667",
+                "Gyártás dátuma": "2018.04.30",
+                "Autó": "Suzuki Swift 1.0 5 ajtós",
+                "Évjárat": "2002"
+            },
+            {
+                "Kód": "22",
+                "Megnevezés": "Bal első ajtó",
+                "Színkód": "347",
+                "Gyártás dátuma": "2018.04.29",
+                "Autó": "BMW E46 2.0 3 ajtós",
+                "Évjárat": "2004"
+            },
+            {
+                "Kód": "23",
+                "Megnevezés": "Jobb oldali küszöb",
+                "Színkód": "558",
+                "Gyártás dátuma": "2018.04.28",
+                "Autó": "Fiat Bravo 1.4 3 ajtós",
+                "Évjárat": "1998"
+            },
+            {
+                "Kód": "24",
+                "Megnevezés": "Csomagtartó ajtó",
+                "Színkód": "449",
+                "Gyártás dátuma": "2018.04.27",
+                "Autó": "Suzuki Swift 1.6 4 ajtós",
+                "Évjárat": "2001"
+     
+            }
+        ]
+    }
+}

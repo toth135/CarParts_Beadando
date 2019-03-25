@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<carparts>
+	<carpart>
+		<Kód>21</Kód>
+		<Megnevezés>Toronymerevítő</Megnevezés>
+		<Színkód>000</Színkód>
+		<Gyártás_dátuma>2018.04.15</Gyártás_dátuma>
+		<Autó>Mitsubishi Lancer EVO IX 2.2 5 ajtós</Autó>
+        <Évjárat>2015</Évjárat>
+	</carpart>
+	<carpart>
+		<Kód>22</Kód>
+		<Megnevezés>Bal visszapillantó tükör</Megnevezés>
+		<Színkód>557</Színkód>
+		<Gyártás_dátuma>2018.04.14</Gyártás_dátuma>
+		<Autó>Skoda SuperB 1.9 5 ajtós</Autó>
+        <Évjárat>2008</Évjárat>
+	</carpart>
+    <carpart>
+		<Kód>23</Kód>
+		<Megnevezés>Hátsó lökhárító</Megnevezés>
+		<Színkód>337</Színkód>
+		<Gyártás_dátuma>2018.04.13</Gyártás_dátuma>
+		<Autó>Seat Cordoba 1.6 5 ajtós</Autó>
+        <Évjárat>2005</Évjárat>
+	</carpart>
+    <carpart>
+		<Kód>24</Kód>
+		<Megnevezés>Első lökhárító</Megnevezés>
+		<Színkód>881</Színkód>
+		<Gyártás_dátuma>2018.04.12</Gyártás_dátuma>
+		<Autó>Subaru Justy</Autó>
+        <Évjárat>2002</Évjárat>
+	</carpart>
+</carparts>
